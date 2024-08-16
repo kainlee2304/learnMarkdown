@@ -9,40 +9,49 @@ Có thể bạn chưa biết: `Markdown` có thể được sử dụng tại [G
 
 >If you can, feel free to translate this repo into other languages, thanks!
 
->Tài liệu được viết tay bởi Lục Thiên Phong, để giúp bạn có thêm hiểu biết và làm chủ về Markdown.
+>Tài liệu được viết tay bởi [Lục Thiên Phong](https://github.com/lucthienphong1120), để giúp bạn có thêm hiểu biết và làm chủ về Markdown.
 
 # Mục lục
 # I. Sơ lược
-### 1. MarkDown (Markup languages)
+## 1. MarkDown (Markup languages)
 Sự thật là cái tên __"Markdown"__ chính là một phép chơi chữ của từ __"Markup"__.
 
 Mardown được sử dụng để xuất văn bản thô trên trình duyệt nhưng các ngôn ngữ đánh dấu khác lại có thể giao tiếp trực tiếp với máy tính. Đơn cử như `XML` là một ngôn ngữ đánh dấu văn bản mà cả con người lẫn máy móc có thể đọc được.
 
 Một ngôn ngữ đánh dấu văn bản khác mà mọi người chắc hẳn ai học CNTT cũng biết vì độ nổi tiếng của nó, chính là `HTML`, `Markdown` không mang trong mình sứ mệnh __"Kẻ huỷ diệt HTML"__ hay gì, mà mục đích của nó chính là làm đơn giản hoá việc đánh dấu văn bản và tăng cường tốc độ viết lách một cách đáng kể.
 
-### 2. Một số trình soạn thảo Markdown
-Mac, Windows, và Linux
-Typora
-MacDown
-Online
-StackEdit
-Dillinger
-Hashify
-Sau bài viết này, bạn có thể viết md mà không cần chuyển đổi
-Notepad
-Visual Studio Code
-Visual Code
-Notepad++
-Vi,nano,...
-Github,Discord,...
-II. Cách sử dụng
-1. Văn bản thuần
-1 Tiêu đề - Heading
-Bạn có thể viết loại tiêu đề <h1>, <h2>,... <h6> bằng cách thêm các dấu # tương ứng vào đầu dòng.
+## 2. Một số trình soạn thảo Markdown
+- Mac, Windows, và Linux
+  - Typora
+  - MacDown
+- Online
+  - StackEdit
+  - Dillinger
+  - Hashify
+- Sau bài viết này, bạn có thể viết md mà không cần chuyển đổi
+  - Notepad
+  - Visual Studio Code
+  - Visual Code
+  - Notepad++
+  - Vi,nano,...
+  - Github,Discord,...
+# II. Cách sử dụng
+## 1. Văn bản thuần
+### 1 Tiêu đề - Heading
+Bạn có thể viết loại tiêu đề `<h1>, <h2>,... <h6>` bằng cách thêm các dấu `#` tương ứng vào đầu dòng.
 
-Một dấu # tương đương với <h1>, hai dấu # tương đương với <h2> ...
+Một dấu `#` tương đương với `<h1>`, hai dấu `#` tương đương với `<h2>` ...
 
-Cú pháp:
+__Cú pháp:__
+
+```# Tiêu đề loại 1
+## Tiêu đề loại 2
+### Tiêu đề loại 3
+#### Tiêu đề loại 4
+##### Tiêu đề loại 5
+###### Tiêu đề loại 6```
+
+Kết quả
 
 # Tiêu đề loại 1
 ## Tiêu đề loại 2
@@ -50,16 +59,8 @@ Cú pháp:
 #### Tiêu đề loại 4
 ##### Tiêu đề loại 5
 ###### Tiêu đề loại 6
-Kết quả:
-
-Tiêu đề loại 1
-Tiêu đề loại 2
-Tiêu đề loại 3
-Tiêu đề loại 4
-Tiêu đề loại 5
-Tiêu đề loại 6
-2. Đoạn văn - Paragraph
-Để xuống dòng giữa các văn bản <p>, sử dụng một dòng trống để tách các dòng văn bản.
+### 2. Đoạn văn - Paragraph
+Để xuống dòng giữa các văn bản `<p>`, sử dụng một dòng trống để tách các dòng văn bản.
 
 Cú pháp:
 
@@ -72,7 +73,7 @@ Kết quả:
 
 Đây là dòng 2
 
-3. Chữ in nghiêng - Italic
+### 3. Chữ in nghiêng - Italic
 Để in nghiêng văn bản <i>, thêm một dấu * hoặc dấu _ trước và sau từ cần in nghiêng.
 
 Cú pháp:
