@@ -12,6 +12,9 @@ Có thể bạn chưa biết: `Markdown` có thể được sử dụng tại [G
 >Tài liệu được viết tay bởi [Lục Thiên Phong](https://github.com/lucthienphong1120), để giúp bạn có thêm hiểu biết và làm chủ về Markdown.
 
 # Mục lục
+[Sơ lược](https://github.com/kainlee2304/learnMarkdown/edit/main/README.md#i-s%C6%A1-l%C6%B0%E1%BB%A3c)
+[1. MarkDown (Markup languages)](https://github.com/kainlee2304/learnMarkdown/edit/main/README.md#1-markdown-markup-languages)
+[2. Một số trình soạn thảo Markdown](https://github.com/kainlee2304/learnMarkdown/edit/main/README.md#2-m%E1%BB%99t-s%E1%BB%91-tr%C3%ACnh-so%E1%BA%A1n-th%E1%BA%A3o-markdown)
 # I. Sơ lược
 ## 1. MarkDown (Markup languages)
 Sự thật là cái tên __"Markdown"__ chính là một phép chơi chữ của từ __"Markup"__.
